@@ -1,0 +1,12 @@
+{
+  "_id": "6995e13de0e713148a843dd8",
+  "id": 1,
+  "name": "Premium Wireless Headphones",
+  "price": 299.99,
+  "image": "https://images.unsplash.com/photo-1713618651165-a3cf7f85506c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtb2Rlcm4lMjBoZWFkcGhvbmVzfGVufDF8fHx8MTc3MTM3MDQwMHww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+  "category": "Electronics",
+  "description": "High-quality wireless headphones with noise cancellation and premium sound quality.",
+  "rating": 4.5,
+  "reviews": 128,
+  "__v": 0
+}
